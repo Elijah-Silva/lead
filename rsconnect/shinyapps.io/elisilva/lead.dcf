@@ -1,0 +1,12 @@
+name: lead
+title: lead
+username:
+account: elisilva
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2084368
+bundleId: 2989574
+url: https://elisilva.shinyapps.io/lead/
+when: 1586391151.55645
+asMultiple: FALSE
+asStatic: FALSE
