@@ -5,7 +5,7 @@ The user may see socioeconomic statistics behind each country by clicking on any
 
 ## Deployment
 
-This Shiny application may be accessed [here](www.elisilva.shinyapps.io/lead/)
+This Shiny application may be accessed [here](elisilva.shinyapps.io/lead/)
 
 ## Authors
 
