@@ -1,6 +1,6 @@
 # Lead Dashboard
 
-The purpose of this application is to show the distrubution of blood lead levels across all St. Joseph County (Indiana) countries.
+The purpose of this application is to show the distrubution of childhood blood lead levels across all St. Joseph County (Indiana) countries.
 The user may see socioeconomic statistics behind each country by clicking on any census tract.
 
 ## Deployment
